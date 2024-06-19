@@ -457,6 +457,11 @@ Criando a tabela e importando os dados do CSV:
 
 ![image](https://github.com/everton-amaral/code-challenge/assets/38400444/11f1f822-e575-44cd-bd70-d924539d1d81)
 
+# DAG 01:
+<img width="1490" alt="image" src="https://github.com/everton-amaral/code-challenge/assets/38400444/60df9cba-3384-4b25-9431-5ed74b3e8afc">
+![image](https://github.com/everton-amaral/code-challenge/assets/38400444/55745ef4-5f38-4601-a07f-ea2b6a56ab78)
+
+
 
 
 
