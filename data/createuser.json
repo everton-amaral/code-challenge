@@ -1,4 +1,4 @@
-airflow create_user \
+airflow users create \
     --username admin \
     --firstname carolina \
     --lastname rocha \
