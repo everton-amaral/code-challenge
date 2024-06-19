@@ -455,7 +455,7 @@ if __name__ == "__main__":
 
 Criando a tabela e importando os dados do CSV:
 
-![image](https://github.com/everton-amaral/code-challenge/assets/38400444/11f1f822-e575-44cd-bd70-d924539d1d81)
+![image](https://github.com/everton-amaral/code-challenge/assets/38400444/3a36bb45-2d99-4bed-8a6c-796e8758af73)
 
 # DAG 01:
 <img width="1490" alt="image" src="https://github.com/everton-amaral/code-challenge/assets/38400444/60df9cba-3384-4b25-9431-5ed74b3e8afc">
@@ -470,7 +470,11 @@ Criando a tabela e importando os dados do CSV:
 ![image](https://github.com/everton-amaral/code-challenge/assets/38400444/299fd1a5-282e-4551-b855-cd09bd39807f)
 
 # DAG 03
+<img width="1492" alt="image" src="https://github.com/everton-amaral/code-challenge/assets/38400444/5b36d8a3-845d-4fce-89f8-d48de3cbd7fe">
 
+![image](https://github.com/everton-amaral/code-challenge/assets/38400444/e044ea7c-019f-4981-825f-00b2475ab0d4)
+
+#    FIM...
 
 
 
