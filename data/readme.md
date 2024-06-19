@@ -465,6 +465,12 @@ Criando a tabela e importando os dados do CSV:
 # DAG 02
 <img width="1491" alt="image" src="https://github.com/everton-amaral/code-challenge/assets/38400444/d5f34da9-4160-49fc-bf38-aaadc40e027f">
 
+<img width="1488" alt="image" src="https://github.com/everton-amaral/code-challenge/assets/38400444/5748fbd5-8b68-42fc-91b7-6678401bf79e">
+
+![image](https://github.com/everton-amaral/code-challenge/assets/38400444/299fd1a5-282e-4551-b855-cd09bd39807f)
+
+# DAG 03
+
 
 
 
