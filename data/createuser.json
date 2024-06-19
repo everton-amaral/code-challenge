@@ -1,0 +1,7 @@
+airflow create_user \
+    --username admin \
+    --firstname carolina \
+    --lastname rocha \
+    --role admin \
+    --email carol.rmr16@gmail.com \
+    --password 12345678
