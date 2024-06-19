@@ -13,7 +13,7 @@ services:
     volumes:
       - /Users/carolrmr/postgresql/data
     environment:
-      POSTGRES_DB: postgres
+      POSTGRES_DB: northwind
       POSTGRES_USER: airflow
       POSTGRES_PASSWORD: passairflow
     ports:
