@@ -5,3 +5,12 @@ airflow users create \
     --role admin \
     --email carol.rmr16@gmail.com \
     --password 12345678
+
+CREATE TABLE order_details (
+    order_id INTEGER NOT NULL,
+    product_id INTEGER NOT NULL,
+    unit_price DECIMAL NOT NULL,
+    quantity INTEGER NOT NULL,
+    discount DECIMAL NOT NULL,
+    PRIMARY KEY (order_id, product_id)
+);
