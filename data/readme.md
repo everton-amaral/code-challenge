@@ -5,7 +5,7 @@
 Após realizar a instalação do docker, foi criado um banco de dados PostgreSQL na versão 16.
 
 docker-compose.yaml
-version: '3.8'
+`version: '3.8'
 
 services:
   db:
