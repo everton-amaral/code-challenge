@@ -19,5 +19,5 @@ services:
     ports:
       - "5432:5432" 
 
-
+# ASJASKJA
 Sabemos que por boas práticas de segurança, o usuário master do banco não deve ser usado pela APP. Porém trata-se de uma demonstração...
