@@ -18,5 +18,5 @@ services:
       POSTGRES_PASSWORD: passairflow
     ports:
       - "5432:5432"
-```
-Sabemos que por boas práticas de segurança, o usuário master do banco não deve ser usado pela APP. Porém trata-se de uma demonstração...
+
+#OBS: Sabemos que por boas práticas de segurança, o usuário master do banco não deve ser usado pela APP. Porém trata-se de uma demonstração...
