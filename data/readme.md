@@ -23,3 +23,4 @@ services:
 Porém trata-se de uma demonstração...
 ```
 
+Após isso, foi feito o restore do northwind.sql fornecido pelo desafio em questão, também foi criada a tabela order_details através do csv também fornecido!
