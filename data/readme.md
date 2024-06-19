@@ -358,8 +358,8 @@ export_to_csv_task = PythonOperator(
     dag=dag,
 )
 ```
-## DAG 02: dag_export_db_to_csv
-Responsável por importar as tabelas armazenadas no /csv/tablesnames.csv para o novo banco de dados chamado northwind_datamart, conforme solicitado, ela espera uma variável IMPORT_FRON_DATE com o valor do dia que deseja importar para a base, a var deve ser preenchida nesse formato: YYYY-MM-DD, porém caso vazia, o sript pega a data do dia atual.
+## DAG 03: dag_import_csv_to_new_db
+Responsável por importar as tabelas armazenadas no /csv/tablesnames.csv para o novo banco de dados chamado northwind_datamart. Conforme solicitado, ela espera uma variável IMPORT_FRON_DATE com o valor do dia que deseja importar para a base, ser preenchida nesse formato: YYYY-MM-DD, caso vazia, o sript pega a data do dia atual.
 ```
 from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
