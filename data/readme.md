@@ -452,7 +452,9 @@ if __name__ == "__main__":
 
 # PRINTs apresentando algumas ETAPAS do code-challenge
 ![image](https://github.com/everton-amaral/code-challenge/assets/38400444/59a27063-d379-4d47-a81e-14d065f8d09f)
+
 Criando a tabela e importando os dados do CSV:
+
 ![image](https://github.com/everton-amaral/code-challenge/assets/38400444/11f1f822-e575-44cd-bd70-d924539d1d81)
 
 
