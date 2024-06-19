@@ -450,6 +450,10 @@ if __name__ == "__main__":
     dag.cli()
 ```
 
+# PRINTs apresentando algumas ETAPAS do code-challenge
+![image](https://github.com/everton-amaral/code-challenge/assets/38400444/59a27063-d379-4d47-a81e-14d065f8d09f)
+
+
 
 
 
